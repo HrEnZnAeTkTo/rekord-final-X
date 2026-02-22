@@ -1,0 +1,12 @@
+{
+  "дети rave::новый год": {
+    "artist": "Дети Rave",
+    "title": "Новый год",
+    "rawPath": "data\\lyrics_raw\\Дети_Rave_-_Новый_год.lrc",
+    "jsonPath": "data\\lyrics_json\\Дети_Rave_-_Новый_год.json",
+    "format": "lrc",
+    "linesCount": 39,
+    "provider": "lrclib",
+    "addedAt": "2026-01-13T15:42:47.659Z"
+  }
+}

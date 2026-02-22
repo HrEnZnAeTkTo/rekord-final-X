@@ -1,0 +1,32 @@
+{
+  "дети rave::новый год": {
+    "artist": "Дети Rave",
+    "title": "Новый год",
+    "rawPath": "data\\lyrics_raw\\Дети_Rave_-_Новый_год.lrc",
+    "jsonPath": "data\\lyrics_json\\Дети_Rave_-_Новый_год.json",
+    "format": "lrc",
+    "linesCount": 39,
+    "provider": "lrclib",
+    "addedAt": "2026-01-13T15:42:47.659Z"
+  },
+  "death grips::takyon": {
+    "artist": "Death Grips",
+    "title": "Takyon",
+    "rawPath": "data\\lyrics_raw\\Death_Grips_-_Takyon.lrc",
+    "jsonPath": "data\\lyrics_json\\Death_Grips_-_Takyon.json",
+    "format": ".lrc",
+    "linesCount": 57,
+    "provider": "LRCLIB",
+    "addedAt": "2026-02-07T15:55:57.572Z"
+  },
+  "shadowax::nikolai reptile": {
+    "artist": "Shadowax",
+    "title": "Nikolai Reptile",
+    "rawPath": "data\\lyrics_raw\\Shadowax_-_Nikolai_Reptile.lrc",
+    "jsonPath": "data\\lyrics_json\\Shadowax_-_Nikolai_Reptile.json",
+    "format": ".lrc",
+    "linesCount": 71,
+    "provider": "LRCLIB",
+    "addedAt": "2026-02-08T02:17:07.985Z"
+  }
+}
